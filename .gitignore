@@ -1,0 +1,17 @@
+# All ignore
+/*
+/.**
+
+# Not ignore
+!/.zshrc
+!/.config
+!/.config/wezterm/
+!/.config/wezterm/**
+!/.config/starship.toml
+!/.bin/
+!/.bin/**
+
+!/README.md
+!/LICENSE
+!/.gitignore
+!/.gigtkeep

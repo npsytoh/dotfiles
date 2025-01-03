@@ -12,6 +12,7 @@
 !/.config/starship.toml
 !/.bin/
 !/.bin/**
+!/.hushlogin
 
 !/README.md
 !/LICENSE
